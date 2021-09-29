@@ -1,5 +1,6 @@
 ![Logo](https://user-images.githubusercontent.com/5736114/133277346-2bf4460c-9a3d-48a7-a28c-6f81fc7f709c.png)
 
+
 This repository contains educational resources for acculturation of teachers in artificial intelligence. A view of the current content is available on https://inrialearninglab.github.io/ai4t/index.html website.
 
 # How to use this repository
